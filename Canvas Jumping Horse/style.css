@@ -1,0 +1,42 @@
+#wrapper{
+    width: 100%;
+    text-align: center;
+    font-family: coda;
+    font-size: 30px;
+    letter-spacing: 2mm;
+}
+#blocks{
+    margin: auto;
+    width: 600px;
+    padding-top: 25px;
+}
+#score-panel{
+    width: 200px;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid black;
+    float: left;
+}
+#difficulty-panel{
+    float: left;
+    margin-top: -5px;
+    width: 200px;
+    border: 1px solid black;
+    padding: 5px;
+    margin-left: 100px;
+}
+#difficulty-panel p{
+    font-size: 15px;
+    color: black;
+    letter-spacing: normal;
+    margin: 2px;
+}
+#difficulty-panel h3{
+    margin: 2px;
+    padding: 0px;
+    font-size: 24px;
+    letter-spacing: normal;
+}
+canvas{
+    border: 1px solid black;
+}
