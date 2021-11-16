@@ -20,7 +20,6 @@ class Player {
         this.maxSpeed = 10;
         this.maxJumpHeight = 30;
 
-        //do wyjebania jumping jak mi sie bd chcialo
         this.jumping = false;
         this.grounded = false;
 
